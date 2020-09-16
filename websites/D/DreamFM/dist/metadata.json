@@ -1,0 +1,26 @@
+{
+    "author": {
+      "name": "Cozby",
+      "id": "720562936736776253"
+    },
+    "url": "dreamfm.net",
+    "description": {
+      "en": "🎶 Hits powering your dreams 24-7 around the world!"
+    },
+    "service": "DreamFM",
+    "version": "1.0.1",
+    "logo": "https://i.imgur.com/hxl1NRn.png",
+    "thumbnail": "https://imgur.com/WdJCc2U.png",
+    "color": "#FF99FF",
+    "tags": [
+      "music",
+      "radio",
+      "community",
+      "dreamfm",
+      "dreamradio",
+      "24-7",
+      "world-wide"
+    ],
+    "category": "music",
+    "regExp": "([a-z0-9-]+[.])*(dreamfm[.]net)[/]"
+  }
