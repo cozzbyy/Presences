@@ -22,5 +22,4 @@
       "world-wide"
     ],
     "category": "music",
-    "regExp": "([a-z0-9-]+[.])*(dreamfm[.]net)[/]"
 }
